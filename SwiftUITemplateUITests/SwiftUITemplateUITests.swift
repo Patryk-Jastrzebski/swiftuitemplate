@@ -5,6 +5,8 @@
 //  Created by Patryk Jastrzębski on 01/04/2023.
 //
 
+// swiftlint: disable line_length
+
 import XCTest
 
 final class SwiftUITemplateUITests: XCTestCase {
